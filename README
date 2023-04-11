@@ -1,0 +1,24 @@
+#### PLAN FOR THE PROJECT :
+---------------------------
+
+1. Home Section :
+	1.1. Most recent events with pictures/videos slideshow
+	1.2. same as 2.2
+
+
+2. Event Section :
+	2.1. Grid of all the events with Title
+	2.2. On click of grid -> display the all the details about the events with photos/videos
+
+3. About Section :
+	3.1. About the NGO with success stories
+
+4. Contact Section : 
+	4.1. Fb, Insta, LinkedIn, Gmail, Phone, Location
+
+5. Donate Section :
+	5.1. This should open a form where the fields will be 
+		- Name
+		- Email
+		- Amount
+		With a button which must lead to payment gateway
